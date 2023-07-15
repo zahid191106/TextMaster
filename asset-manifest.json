@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextMaster/static/css/main.073c9b0a.css",
-    "main.js": "/TextMaster/static/js/main.896ecdcd.js",
-    "static/js/787.436daf27.chunk.js": "/TextMaster/static/js/787.436daf27.chunk.js",
-    "index.html": "/TextMaster/index.html",
-    "main.073c9b0a.css.map": "/TextMaster/static/css/main.073c9b0a.css.map",
-    "main.896ecdcd.js.map": "/TextMaster/static/js/main.896ecdcd.js.map",
-    "787.436daf27.chunk.js.map": "/TextMaster/static/js/787.436daf27.chunk.js.map"
+    "main.css": "/TextMaster/TextMaster/static/css/main.073c9b0a.css",
+    "main.js": "/TextMaster/TextMaster/static/js/main.14b5a3d4.js",
+    "static/js/787.436daf27.chunk.js": "/TextMaster/TextMaster/static/js/787.436daf27.chunk.js",
+    "index.html": "/TextMaster/TextMaster/index.html",
+    "main.073c9b0a.css.map": "/TextMaster/TextMaster/static/css/main.073c9b0a.css.map",
+    "main.14b5a3d4.js.map": "/TextMaster/TextMaster/static/js/main.14b5a3d4.js.map",
+    "787.436daf27.chunk.js.map": "/TextMaster/TextMaster/static/js/787.436daf27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.896ecdcd.js"
+    "static/js/main.14b5a3d4.js"
   ]
 }
